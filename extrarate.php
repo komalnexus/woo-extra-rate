@@ -1,5 +1,5 @@
 <?php
- /* Plugin Name: WooCommerce Extra Rate
+ /* Plugin Name: Nls Extra Rate
  * Plugin URI: https://github.com/komalnexus/woo-extra-rate.git
  * Description: A plugin for add extra rate in woocommerce order.
  * Author: Komal Dudhat
