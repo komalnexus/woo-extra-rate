@@ -1,9 +1,9 @@
 <?php
  /* Plugin Name: WooCommerce Extra Rate
- * Plugin URI: https://gist.github.com/BFTrick/b5e3afa6f4f83ba2e54a
+ * Plugin URI: https://github.com/komalnexus/woo-extra-rate.git
  * Description: A plugin for add extra rate in woocommerce order.
  * Author: Komal Dudhat
- * Author URI: http://speakinginbytes.com/
+ * Author URI: https://nexuslinkservices.com/
  * Version: 1.0
  *
  * This program is free software: you can redistribute it and/or modify
